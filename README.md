@@ -10,6 +10,6 @@ Start fast with direct links to Colab inside .py files
 
 +--------------------------------------------------------------------------+
 
-Blog: www.simple-ai.net
+Website: www.simple-ai.net
 
 Youtube: https://www.youtube.com/channel/UCI55181WMOR6uWWvBPeVFcA
