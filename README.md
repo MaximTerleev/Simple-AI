@@ -2,9 +2,9 @@
 
 Hi, there!
 
-This is a repository for projects, presented in SimpleAI posts and videos.
+This is a repository for projects, presented in Simple-AI posts and videos.
 
-Here you will find both python codes and data files used.
+Here you will find both Python codes and data files used.
 
 Start fast with direct links to Colab inside .py files
 
