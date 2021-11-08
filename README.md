@@ -8,7 +8,7 @@ Here you will find both Python codes and data files used.
 
 Start fast with direct links to Colab inside .py files
 
-+--------------------------------------------------------------------------+
++------------------------------------------------------------------------------------+
 
 Website: www.simple-ai.net
 
